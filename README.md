@@ -25,7 +25,7 @@ Credits to Professor Jurn Gyu Park for providing valuable feedback on our approa
 
 ### Done Work 
 * Deep Neural Networks (DNN) inference on dataset 'cats_vs_dogs' 	
-  Training and tersting MobileNet, ResNet, and Inception CNNs using this dataset 
+  Training and testing MobileNet, ResNet, and Inception CNNs using this dataset 
 
 ### Undone Work
 * Model selection part of the predictive model algorithm presented by the research paperwork.
