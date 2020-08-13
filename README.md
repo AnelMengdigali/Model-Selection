@@ -28,4 +28,4 @@ Credits to Professor Jurn Gyu Park for providing valuable feedback on our approa
   Training and testing MobileNet, ResNet, and Inception CNNs using this dataset 
 
 ### Undone Work
-* Model selection part of the predictive model algorithm presented by the research paperwork.
+* Predictive model (premodel) part of the algorithm presented by the research paperwork.
